@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 🧠 Languages: Cpp, Java.
 
-🌐 Frontend: HTML5 CSS, JavaScript, React, Next.js, Tailwind CSS, Vite.  
+🌐 Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Vite.  
 
 🔧 Backend:  MongoDB, MySQL.  
 
