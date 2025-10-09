@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Prathmesh Malunjkar</span> 👋</h1>
-I’m interested in coding and buildings concepts.<br>🌱 I’m currently pursuing BTECH degree in computer science and engineering.
+<h2 align="center">I’m interested in coding and buildings concepts.<br>🌱 I’m currently pursuing BTECH degree in computer science and engineering. </h2>
+
 
 
 
