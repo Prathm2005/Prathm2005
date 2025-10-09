@@ -1,15 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m @Prathm2005<br>👀 I’m interested in coding and buildings concepts.<br>🌱 I’m currently pursuing BTECH degree in computer science and engineering.
-
 <h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Prathmesh Malunjkar</span> 👋</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 Web Enthusiast | 💡 Lifelong Learner</h3>
+I’m interested in coding and buildings concepts.<br>🌱 I’m currently pursuing BTECH degree in computer science and engineering.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathmeshmalunjkar&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
-  <a href="https://github.com/prathmeshmalunjkar?tab=followers">
-    <img src="https://img.shields.io/github/followers/prathmeshmalunjkar?label=Followers&style=social" alt="followers">
-  </a>
-</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
