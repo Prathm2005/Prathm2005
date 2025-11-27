@@ -10,8 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
 <p align="center">
-  ![Visitors](https://img.shields.io/badge/Visitors-1234-orange?style=for-the-badge&logo=eye&logoColor=white)
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" />  
+  <img src="https://count.getloli.com/get/@Prathm2005" alt="Visitor Count" />
 </p>
+
 
 
 
