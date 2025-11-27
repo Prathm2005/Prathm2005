@@ -9,7 +9,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
-![Profile views](https://komarev.com/ghpvc/?username=prathmeshmalunjkar&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathm2005&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathm2005&theme=dark&layout=compact"/>
+</p>
+
 
 
 
