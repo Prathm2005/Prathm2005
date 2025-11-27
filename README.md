@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
-![Visitor Map](https://github.com/Prathm2005/github-profile-views.svg)
+
 
 
 
