@@ -6,7 +6,7 @@
 
 <h2 align="center">I’m interested in coding and buildings concepts.<br>🌱 I’m currently pursuing BTECH degree in computer science and engineering. </h2>
 
- ![](https://github-visitor-counter-tau.vercel.app/api?username=Prathm2005)
+ 
 
 
 ## 🌐 Socials:
