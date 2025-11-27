@@ -9,14 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
-<h3 align="center">🌱 Activity & Visitors</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Prathm2005&theme=react-dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" />
-  <img src="https://count.getloli.com/get/@Prathm2005" alt="Visitor Count" />
-</p>
+
 
 
 
