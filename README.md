@@ -12,7 +12,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
-![Developer Skills Animation](https://assets10.lottiefiles.com/packages/lf20_nMPhWyVkkl.gif)
+![Debugging Animation](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+
 
 
 
