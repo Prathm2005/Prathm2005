@@ -14,7 +14,7 @@
 
 
 
-<img width="500" height="300" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" />
+<img width="500" height="100%" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" />
 
 
 
