@@ -14,7 +14,7 @@
 
 
 
-
+<img height="150" src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" />
 
 
 
@@ -62,7 +62,7 @@
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[
+
 
 
 ## 📈 Contribution Activity
