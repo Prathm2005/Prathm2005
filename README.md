@@ -13,8 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-malunjkar-a47a29259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmesh.malunjkar02@gmail.com) 
 
 
-
+<p align="center">
 <img width="75%" height="300" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAd/coding.gif" />
+</p>
 
 
 
